@@ -1,0 +1,8 @@
+{
+  "name": "coap-server",
+  "description": "Simple CoAP Server for Development",
+  "version": "0.0.1",
+  "dependencies": {
+    "coap": ">=0.12.1"
+  }
+}
